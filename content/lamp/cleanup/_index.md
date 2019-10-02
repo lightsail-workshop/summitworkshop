@@ -1,6 +1,6 @@
 ---
 title: "Cleanup"
-weight: 100
+weight: 110
 ---
 
 Be sure to delete all the resources from this lab so as not to incur additional charges. To cleanup the resources follow the steps below. 

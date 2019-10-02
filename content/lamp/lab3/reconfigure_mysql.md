@@ -31,5 +31,3 @@ In this section we'll update the application configuration to point to our highl
 {{% notice tip %}}
 If your web app is still showing the previously deployed database (denoted by `localhost` as the database host), you may need to use either a new browser window or an incognito window. 
 {{% /notice %}}
-
-In a production environment you would now migrate the data from your local database to the Lightsail Database, but that is out of the scope of this lab. 
