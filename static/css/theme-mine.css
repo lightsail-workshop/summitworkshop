@@ -144,12 +144,14 @@ a:hover {
     color: #e07d04 !important;
 }
 
+/*
 div.notices p:first-child:before {
     position: absolute;
     top: 2px;
     color: #fff;
     font-family: 'Font Awesome\ 5 Free';
     content: #F06A;
-    font-weight: 900; /* Fix version 5.0.9 */
+    font-weight: 900; 
     left: 10px;
 }
+*/

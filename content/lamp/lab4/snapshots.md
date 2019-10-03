@@ -15,17 +15,16 @@ Lightsail makes it super simple to create snapshots of your instances with a sin
 
     ![](../../images/2-3-3.jpg?classes=border)
 
-* Click ***Create snapshot***
+* Under ***Manual Snapshots*** click ***Create snapshot***
 
-    ![](../../images/lamp-create-snapshot.jpg?classes=border)
+    ![](../../images/create_snapshot.png?classes=border)
 
-{{% notice tip %}}
-Under ***Recent snapshots*** the status will change to ***creating***, you will need to wait for the process to complete before moving forward. This can take up to 5 minutes. 
-{{% /notice %}}
+
+The status will change to ***Snapshotting***, you will need to wait for the process to complete before moving forward. This can take up to 5 minutes. 
 
 * Click the 3 dot menu to the right of the newly created snapshot and select ***Create new instance***
 
-    ![](../../images/lamp-snapshot-menu.jpg?classes=border)
+    ![](../../images/snapshot_menu.png?classes=border)
 
 * Scroll down and name the instance ***PHP-fe-2***
 
