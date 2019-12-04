@@ -3,7 +3,7 @@ title = "Lab #1: Deploy the lab resources"
 weight = 60
 +++
 
-### Deploy the lab infrasturcture 
+### Deploy the lab infrastructure 
 
 In this lab you'll deploy the infrastructure components that will be used in subsequent sections. 
 

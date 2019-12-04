@@ -13,7 +13,7 @@ In this final lab you will export your Lightsail instance to EC2 and ensure it c
 
 * Under ***Manual Snapshots*** click ***+ Create snapshot***
 
-* Name it ***EC2 export***
+* Name it ***ec2-export***
 
 * Click ***Create***
 
